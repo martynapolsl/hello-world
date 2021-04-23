@@ -2,7 +2,7 @@
 
 Hi!
 
-My name is Martyna. This file is for testing
+My name is Martyna. Test one- the guide tutorial
 
 Test two - GitHubDesktop
 
